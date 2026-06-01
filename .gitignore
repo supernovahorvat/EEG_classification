@@ -1,0 +1,20 @@
+# Ignore scalogram dataset and temporary files
+scalograms/
+
+# Ignore temporary helper files
+sizes.txt
+
+# Environment and IDE
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
