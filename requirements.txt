@@ -5,3 +5,6 @@ scikit-learn
 imbalanced-learn
 PyWavelets
 tqdm
+torch
+torchvision
+optuna
